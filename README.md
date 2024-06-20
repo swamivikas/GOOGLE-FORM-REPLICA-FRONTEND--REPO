@@ -7,5 +7,11 @@
 3. after that you have to click on SlidelyformApp.soln file and run this task fron run button from middle top
 
 4. after that you will get this from
-5. ![image](https://github.com/swamivikas/SlidelyFormApp---Frontend/assets/108607735/b291b671-5604-4a85-94b6-0c5524572c83)
+   
+   ![image](https://github.com/swamivikas/SlidelyFormApp---Frontend/assets/108607735/b291b671-5604-4a85-94b6-0c5524572c83)
+
+6. after that you can createsubmission (you can also click viewsubmission but it will show nothing because right now there is no data )
+
+   ![image](https://github.com/swamivikas/SlidelyFormApp---Frontend/assets/108607735/617c4b69-2d06-407a-bfba-3043768fabcd)
+
 
